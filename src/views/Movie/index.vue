@@ -19,6 +19,7 @@
         </keep-alive>
       </div>
     <Tabbur/> 
+    <router-view name="detail"/>
   </div>
 </template>
 
